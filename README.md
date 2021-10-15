@@ -5,7 +5,7 @@
 
 
 ## Fast Links
-[![GitHub Page](https://github-readme-stats.vercel.app/api/pin/?username=FuchsCrafter&repo=fuchscrafter.github.io&bg_color=DEG,eb6749,894b8e&text_color=ffffff&title_color=ffffff&icon_color=ffffff)](https://github.com/FuchsCrafter/fuchscrafter.github.io)
+[![GitHub Page](https://github-readme-stats.vercel.app/api/pin/?username=FuchsCrafter&repo=scratchstats&bg_color=DEG,eb6749,894b8e&text_color=ffffff&title_color=ffffff&icon_color=ffffff)](https://github.com/FuchsCrafter/scratchstats)
 
 
 [![GitHub Page](https://github-readme-stats.vercel.app/api/pin/?username=FuchsCrafter&repo=skypy&bg_color=DEG,eb6749,894b8e&text_color=ffffff&title_color=ffffff&icon_color=ffffff)](https://github.com/FuchsCrafter/skypy)
