@@ -7,17 +7,17 @@ Copyright \<name\> \<year\>
 
 "modifying" means to modify the software in any ways, so it is not identical to the original software.
 
-"using" means thee intended use of this software.
+"using" means using the software by the intended use of this software.
   
-"non-commercial" means using this software without getting commercial rewards (including but not limited to money) from third-party users/organisations. Furthermore, it means also that selling this software is not allowed.
+"non-commercial" means using this software without getting commercial rewards (including but not limited to money) from third-party users/organisations or other end-users. "commercial rewards" are also meaning ad revenue from advertising on download pages.
 
 ## **2: License**
 
-A license should be included with the copy of the end-user. By using this software (which includes but is not limited to using, seeing the source code, modifying the source code) agrees to this license.
+A license should be included with the copy of the end-user. By using this software (which includes using, seeing the source code, modifying the source code) agrees to this license.
 
-Anyone is free to download, use, and modify this software, either in source code form or as a compiled binary, for or non-commercial purposes only. The right to selling this software or useing this software belongs only to the author.
+Anyone is free to download, use, and modify this software, either in source code form or as a compiled binary, for or non-commercial purposes only. The right to selling this software belongs only to the author.
 
-Anyone is allowed to modify the software. A reference to the original author nd the original software must be included, and the original license of the software must be used too.
+Anyone is allowed to modify the software. A reference to the original author and the original software must be included, and the original license of the software must be used too.
 
 
   
