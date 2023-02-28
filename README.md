@@ -17,6 +17,4 @@ Hello, I'm FuchsCrafter! I love to Code webapps and other things. I have also ju
 
 My Homepage: [fuchscrafter.de](http://fuchscrafter.de)
 
-## TODO
-Clear up the repositories that i've shared
 
