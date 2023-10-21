@@ -4,8 +4,10 @@
 
 ## Contact
 kontakt@fuchscrafter.de
-support@fuchscrafter.de
+/ support@fuchscrafter.de
+
 Discord: @fuchscrafter
+
 ...or create an issue on this project
 
 ## Fast Links
