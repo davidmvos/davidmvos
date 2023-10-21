@@ -2,7 +2,11 @@
 
 [![FuchsCrafter's GitHub stats](https://github-readme-stats.vercel.app/api?username=FuchsCrafter&bg_color=DEG,eb6749,894b8e&text_color=ffffff&title_color=ffffff&icon_color=ffffff)](https://github.com/FuchsCrafter/FuchsCrafter)
 
-
+## Contact
+kontakt@fuchscrafter.de
+support@fuchscrafter.de
+Discord: @fuchscrafter
+...or create an issue on this project
 
 ## Fast Links
 [![GitHub Page](https://github-readme-stats.vercel.app/api/pin/?username=FuchsCrafter&repo=scratchstats&bg_color=DEG,eb6749,894b8e&text_color=ffffff&title_color=ffffff&icon_color=ffffff)](https://github.com/FuchsCrafter/scratchstats)
