@@ -8,8 +8,8 @@ var keysDown = [];
 var pressedKeys = {}; 
 let mouse_x, mouse_y;
 
-const bodyWidth = document.body.width;
-const bodyHeight = document.body.height;
+const bodyWidth = document.querySelector("body").offsetWidth;
+const bodyHeight = document.querySelector("body").offsetHeight;
 
 let app = new PIXI.Application({ width: bodyWidth, height: bodyHeight });
 // let sprite = PIXI.Sprite.from('image.extension');
