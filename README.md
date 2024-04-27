@@ -10,8 +10,6 @@ Discord: @fuchscrafter
 
 ...or create an issue on this project
 
-## Notice
-As of the 13th Feburary 2024, I have archived or deleted all of my stale projects. Most likely, I won't pick up on them again. 
 <!--## Fast Links
 [![GitHub Page](https://github-readme-stats.vercel.app/api/pin/?username=FuchsCrafter&repo=scratchstats&bg_color=DEG,eb6749,894b8e&text_color=ffffff&title_color=ffffff&icon_color=ffffff)](https://github.com/FuchsCrafter/scratchstats)
 
