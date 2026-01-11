@@ -1,10 +1,9 @@
-# 💠 FuchsCrafter 💠
+# 💠 David M. Vos 💠
 
 <!--[![FuchsCrafter's GitHub stats](https://github-readme-stats.vercel.app/api?username=FuchsCrafter&bg_color=DEG,eb6749,894b8e&text_color=ffffff&title_color=ffffff&icon_color=ffffff)](https://github.com/FuchsCrafter/FuchsCrafter)-->
 
 ## E-Mail
-kontakt@fuchscrafter.de
-/ support@fuchscrafter.de
+kontakt@davidvos.de
 
 Discord: @fuchscrafter
 
@@ -20,6 +19,6 @@ Discord: @fuchscrafter
 
 Hello, I'm FuchsCrafter! I love to Code webapps and other things. I have also just started to design things with Figma on my own! 
 -->
-Homepage: [davidvos.de](http://davidvos.de), 
+Homepage: [davidvos.de](http://davidvos.de)
 
 
